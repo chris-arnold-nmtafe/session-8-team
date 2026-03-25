@@ -1,1 +1,2 @@
-This is a document
+This is a document.
+It now has changes
